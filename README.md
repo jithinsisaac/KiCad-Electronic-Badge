@@ -8,3 +8,6 @@ Herewith lies the KiCad files for an Electronic Badge made for Christmas in Dece
 1. 0805 LEDs
 1. 1206 Resistors
 1. CR2032 Battery Holder 
+
+![PCB Front](/4.Electronic_BadgeF.jpg)
+![PCB Back](/4.Electronic_BadgeB.jpg)
